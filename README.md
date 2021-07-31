@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I-am-Empty
 - 👀 I’m interested in learning new things about computer
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Web  language
 - 💞️ I’m looking to collaborate on anything i know
 - 📫 How to reach me well it's not a nice idea
 
